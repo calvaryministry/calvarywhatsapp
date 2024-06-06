@@ -279,6 +279,7 @@ h1 {
 
 .w3l-form-info {
     margin: 40px 0;
+    margin-top: -52px;
 }
 
 
@@ -588,7 +589,7 @@ span.fab{
 @media screen and (max-width: 375px) {
     .w3_info {
         width: 335px;
-        padding: 2em 1.5em;
+        padding: 3em 1.5em;
     }
     .footer p {
         font-size: 17px;
